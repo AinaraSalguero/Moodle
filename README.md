@@ -1,1 +1,2 @@
-# Moodle
+Para empezar estuve dando permisos a una carpeta en el terminal después de que se instalara el moodle empece por lo obvio el tema de correo,nombre,foto y canviamos el idioma, la política de las contraseñas y hice el primer curso llamada SMXA donde he creado tres temas un libro conjunto con una actividad y un formulario de concomientos generales. 
+Ahora estoy haciendo un segundo curso que se la llama SMXB donde tendré que crear 5 temas.  
